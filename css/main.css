@@ -947,7 +947,7 @@ video {
     margin-bottom: 20px;
     margin-top: 0px;
     padding: 0;
-    font-size: font-size: 0.75rem;
+    font-size: 0.75rem;
   }
   .head,
   .main,
@@ -1037,14 +1037,14 @@ video {
   }
 }
 
-@media (max-width: 580px) { 
+@media (max-width: 700px) { 
 
   body {
     margin: 10px;
     margin-bottom: 20px;
     margin-top: 0px;
     padding: 0;
-    font-size: font-size: 0.75rem;
+    font-size: 0.75rem;
   }
 
 }
