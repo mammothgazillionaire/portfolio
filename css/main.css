@@ -1037,7 +1037,7 @@ video {
   }
 }
 
-@media (max-width: 700px) { 
+@media (max-width: 600px) { 
 
   body {
     margin: 10px;
@@ -1046,5 +1046,9 @@ video {
     padding: 0;
     font-size: 0.75rem;
   }
+
+  #intro h1 {
+      font-size: .75rem;
+}
 
 }
